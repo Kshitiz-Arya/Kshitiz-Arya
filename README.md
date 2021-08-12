@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Hermione - The Bot](https://github.com/Kshitiz-Arya/Hermione)
 
-- 🌱 I’m currently learning **Java and Node**
+- 🌱 I’m currently learning **Java, MATLAB and Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kshitiz-Arya](https://github.com/Kshitiz-Arya)
 
